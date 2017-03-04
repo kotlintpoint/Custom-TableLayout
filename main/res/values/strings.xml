@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">"My Event "</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="lang">
+        <item>English</item>
+        <item>عربى</item>
+    </string-array>
+</resources>
